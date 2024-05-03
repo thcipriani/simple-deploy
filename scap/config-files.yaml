@@ -1,0 +1,2 @@
+/tmp/test:
+  template: test.txt.j2
